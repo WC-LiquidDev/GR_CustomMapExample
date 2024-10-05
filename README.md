@@ -1,6 +1,6 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-# GT_CustomMapExample
+# GR_CustomMapExample
 A Unity project to facilitate the creation of custom maps for Gorilla Tag. 
 
 **Contents**
@@ -8,7 +8,7 @@ A Unity project to facilitate the creation of custom maps for Gorilla Tag.
 * [Setup](#setup)
 * [Creating a map](#creating-a-map)
 * [Accessing Your Map](#accessing-your-map)
-* [Matching Gorilla Tag's Style](#matching-gorilla-tags-style)
+* [Matching Gorilla Runners's Style](#matching-gorilla-tags-style)
 * [Lighting](#lighting)
     + [General Lighting Setup](#general-lighting-setup)
     + [Lighting Meshes](#lighting-meshes)
@@ -78,7 +78,7 @@ for Players trying to load into your map.
 Players should always be able to return to the "Lobby" room at any point to facilitate leaving your map. Don't put it 
 somewhere difficult to reach.
 
-## Matching Gorilla Tag's Style
+## Matching Gorilla Runner's Style
 Although not every custom map has to look exactly like the game, making your map look similar to the base game's visuals 
 will help improve player experience, so here's a couple of tips:
 
