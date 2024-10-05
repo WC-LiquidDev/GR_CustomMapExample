@@ -8,7 +8,7 @@ A Unity project to facilitate the creation of custom maps for Gorilla Tag.
 * [Setup](#setup)
 * [Creating a map](#creating-a-map)
 * [Accessing Your Map](#accessing-your-map)
-* [Matching Gorilla Runners's Style](#matching-gorilla-tags-style)
+* [Matching Gorilla Runners's Style](#matching-gorilla-runners-style)
 * [Lighting](#lighting)
     + [General Lighting Setup](#general-lighting-setup)
     + [Lighting Meshes](#lighting-meshes)
